@@ -21,8 +21,11 @@ PagePilot is a React-based book discovery app that lets users **search for books
 
 ## ** Technologies Used**
 -React + TypeScript
+
 -Tailwind CSS for styling
+
 -Lucide React icons
+
 -Open Library API
 ---
 
